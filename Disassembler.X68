@@ -1,8 +1,8 @@
 *-----------------------------------------------------------
-* Title      :
-* Written by :
-* Date       :
-* Description:
+* Title      :Disassembler (Inverse Assembler)
+* Written by :Temesgen Baye, ELias Alabssie, Daniel
+* Date       :Spring 2019
+* Description:Disassembles binary information on memory to assembly language instruction or code.
 *-----------------------------------------------------------
 
 
